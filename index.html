@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>006</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <label for="numeris"></label>
+            <input id="numeris" type="number" min="1" max="100" placeholder="Skaičius nuo 1 iki 100">
+            
+            <label for="spalva"></label>
+            <input id="spalva" type="color">
+        </div>
+        <p id="stop"></p>
+        
+        <div class="row">
+            <button id="naujas">Sukurti naują</button>
+            <button id="trinam">Ištrinti seniausią</button>
+        </div>
+        
+        <div id="apskritimai"></div>
+    </div>
+    
+    <script src="./js/localStorage.js" defer></script>
+</body>
+</html>
