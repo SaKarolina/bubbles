@@ -9,7 +9,7 @@ Nurodytame laukelyje reikia įvesti skaičių nuo 1 iki 100, tuomet spalvų pale
 
 Kiekvienas naujai sukurtas burbuliukas išspausdinamas greta ankstesniojo. Seniausiai sukurti burbuliukai ištrinami kaskart paspaudus mygtuką "Ištrinti seniausią".
 
-Nuoroda: 
+Nuoroda: https://sakarolina.github.io/bubbles/
 
 ## Project features
 
