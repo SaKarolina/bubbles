@@ -5,9 +5,10 @@
 
 # Bubbles
 
-Nurodytame laukelyje reikia įvesti skaičių nuo 1 iki 100, tuomet spalvų paletėje pasirinkti pageidaujamą spalvą. Paspaudus mygtuką "Sukurti naują" yra sukuriamas burbuliukas su pasirinktu skaičiumi bei spalva.
+You need to enter a number from 1 to 100 in the indicated field, then select the desired color in the color palette. Clicking the "Sukurti naują" button creates a bubble with the selected number and color.
 
-Kiekvienas naujai sukurtas burbuliukas išspausdinamas greta ankstesniojo. Seniausiai sukurti burbuliukai ištrinami kaskart paspaudus mygtuką "Ištrinti seniausią".
+Each newly created bubble is printed next to the previous one. The oldest created bubbles are deleted each time you click the "Delete Oldest" button.
+Each newly created bubble is printed next to the previous one. The oldest created bubbles are deleted every time you click on the "Ištrinti seniausią" button.
 
 Nuoroda: https://sakarolina.github.io/bubbles/
 
