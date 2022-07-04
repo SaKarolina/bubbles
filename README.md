@@ -7,16 +7,15 @@
 
 You need to enter a number from 1 to 100 in the indicated field, then select the desired color in the color palette. Clicking the "Sukurti naują" button creates a bubble with the selected number and color.
 
-Each newly created bubble is printed next to the previous one. The oldest created bubbles are deleted each time you click the "Delete Oldest" button.
 Each newly created bubble is printed next to the previous one. The oldest created bubbles are deleted every time you click on the "Ištrinti seniausią" button.
 
 Nuoroda: https://sakarolina.github.io/bubbles/
 
 ## Project features
 
--   paskutiniai duomenys atkuriami iš Local Storage;
--   skaitmenys priimami tik teigiami ir sveikieji;
--   neįvedus skaitmens mygtukas "Sukurti naują" neveikia. Rodomas klaidos pranešimas.
+-   Local Storage
+-   required field
+-   error message
 
 ## Author
 
