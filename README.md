@@ -9,7 +9,7 @@ You need to enter a number from 1 to 100 in the indicated field, then select the
 
 Each newly created bubble is printed next to the previous one. The oldest created bubbles are deleted every time you click on the "Ištrinti seniausią" button.
 
-Nuoroda: https://sakarolina.github.io/bubbles/
+Site published at: https://sakarolina.github.io/bubbles/
 
 ## Project features
 
