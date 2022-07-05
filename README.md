@@ -11,6 +11,8 @@ Each newly created bubble is printed next to the previous one. The oldest create
 
 Site published at: https://sakarolina.github.io/bubbles/
 
+Design: Created by myself.
+
 ## Project features
 
 -   Local Storage
